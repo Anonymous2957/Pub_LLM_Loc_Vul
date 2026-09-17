@@ -1,0 +1,1 @@
+{"cve": "CVE-2023-29014", "file_content": [{"file_name": "107_0@intranda@goobi-viewer-core@0c2447c232b48934821b01aa5a3243a18ed23ef4@goobi-viewer-core_src_main_java_io_goobi_viewer_managedbeans_ActiveDocumentBean.java", "cwe_content": [{"cwe": "CWE-79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')", "candidate": []}]}]}

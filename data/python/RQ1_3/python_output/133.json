@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-21706", "file_content": [{"file_name": "133_0@zulip@zulip@d5db254ca8167995a1654d1c45ffc74b2fade39a@zerver_views_auth.py", "cwe_content": [{"cwe": "NVD-CWE-Other,none", "candidate": []}]}]}

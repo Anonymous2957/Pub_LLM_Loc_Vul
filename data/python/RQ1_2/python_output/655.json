@@ -1,0 +1,1 @@
+{"cve": "CVE-2021-3828", "file_content": [{"file_name": "655_0@nltk@nltk@23f4b1c4b4006b0cb3ec278e801029557cec4e82@nltk_corpus_reader_comparative_sents.py", "cwe_content": [{"cwe": "CWE-697,Incorrect Comparison", "candidate": []}]}]}

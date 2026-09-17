@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-24727", "file_content": [{"file_name": "176_0@WeblateOrg@weblate@d83672a3e7415da1490334e2c9431e5da1966842@weblate_vcs_mercurial.py", "cwe_content": [{"cwe": "CWE-77,Improper Neutralization of Special Elements used in a Command ('Command Injection')", "candidate": []}]}]}

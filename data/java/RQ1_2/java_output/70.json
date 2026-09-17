@@ -1,0 +1,1 @@
+{"cve": "CVE-2023-26479", "file_content": [{"file_name": "70_0@xwiki@xwiki-platform@d4984c936291ed38d40937d483bb2b7142435f7c@xwiki-platform-core_xwiki-platform-rendering_xwiki-platform-rendering-parser_src_main_java_org_xwiki_rendering_internal_parser_DefaultContentParser.java", "cwe_content": [{"cwe": "CWE-755,Improper Handling of Exceptional Conditions", "candidate": []}]}]}

@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-4646", "file_content": [{"file_name": "430_0@ikus060@rdiffweb@43929875248842ee35cb039f257bef84ef5b67b1@rdiffweb_tools_auth_form.py", "cwe_content": [{"cwe": "CWE-352,Cross-Site Request Forgery (CSRF)", "candidate": []}]}]}

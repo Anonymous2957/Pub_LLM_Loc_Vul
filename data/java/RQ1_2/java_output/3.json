@@ -1,0 +1,1 @@
+{"cve": "CVE-2023-24426", "file_content": [{"file_name": "3_0@jenkinsci@bitbucket-oauth-plugin@a927a8ff2e069afebb97f33f6798033ef4451e4f@src_main_java_org_jenkinsci_plugins_BitbucketSecurityRealm.java", "cwe_content": [{"cwe": "CWE-613,Insufficient Session Expiration", "candidate": []}]}]}

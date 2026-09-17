@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-4721", "file_content": [{"file_name": "423_0@ikus060@rdiffweb@b0c142251987302e04b2b1c35cf229b7bf93ff57@rdiffweb_core_notification.py", "cwe_content": [{"cwe": "CWE-75,Failure to Sanitize Special Elements into a Different Plane (Special Element Injection)", "candidate": []}]}]}

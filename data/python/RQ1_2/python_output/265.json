@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-3301", "file_content": [{"file_name": "265_0@ikus060@rdiffweb@e974df75bdbcff3996ad70bd1b4424ec1485ea3f@rdiffweb_rdw_app.py", "cwe_content": [{"cwe": "CWE-460,Improper Cleanup on Thrown Exception", "candidate": []}]}]}

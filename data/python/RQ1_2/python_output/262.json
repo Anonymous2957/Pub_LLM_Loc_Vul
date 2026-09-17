@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-3298", "file_content": [{"file_name": "262_0@ikus060@rdiffweb@667657c6fe2b336c90be37f37fb92f65df4feee3@rdiffweb_controller_pref_sshkeys.py", "cwe_content": [{"cwe": "CWE-770,Allocation of Resources Without Limits or Throttling", "candidate": []}]}]}

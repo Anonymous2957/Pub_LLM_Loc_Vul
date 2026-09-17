@@ -1,0 +1,1 @@
+{"cve": "CVE-2021-20228", "file_content": [{"file_name": "472_0@ansible@ansible@4315e1880742eedc5b65fdc51fdc6a94afa61bd1@lib_ansible_module_utils_basic.py", "cwe_content": [{"cwe": "CWE-200,Exposure of Sensitive Information to an Unauthorized Actor", "candidate": []}]}]}

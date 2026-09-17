@@ -1,0 +1,1 @@
+{"cve": "CVE-2023-0055", "file_content": [{"file_name": "30_0@pyload@pyload@7d73ba7919e594d783b3411d7ddb87885aea782d@src_pyload_webui_app___init__.py", "cwe_content": [{"cwe": "CWE-319,Cleartext Transmission of Sensitive Information", "candidate": []}]}]}

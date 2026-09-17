@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-29648", "file_content": [{"file_name": "201_0@jflyfox@jfinal_cms@075701a8c9dcd8c13f5560b551f33bb3ef79c3ed@src_main_java_com_jflyfox_modules_front_controller_PersonController.java", "cwe_content": [{"cwe": "CWE-79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')", "candidate": []}]}]}

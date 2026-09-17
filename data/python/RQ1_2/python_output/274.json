@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-23949", "file_content": [{"file_name": "274_0@keylime@keylime@65c2b737129b5837f4a03660aeb1191ced275a57@keylime_common_validators.py", "cwe_content": [{"cwe": "CWE-290,Authentication Bypass by Spoofing", "candidate": []}]}]}

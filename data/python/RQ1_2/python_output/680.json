@@ -1,0 +1,1 @@
+{"cve": "CVE-2021-3950", "file_content": [{"file_name": "680_0@django-helpdesk@django-helpdesk@2c7065e0c4296e0c692fb4a7ee19c7357583af30@helpdesk_lib.py", "cwe_content": [{"cwe": "CWE-79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')", "candidate": []}]}]}

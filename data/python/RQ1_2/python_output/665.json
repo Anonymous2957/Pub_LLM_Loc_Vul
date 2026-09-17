@@ -1,0 +1,1 @@
+{"cve": "CVE-2021-41146", "file_content": [{"file_name": "665_0@qutebrowser@qutebrowser@1547a48e6f1a8af8dc618d5afe858084ebfd317f@qutebrowser_qutebrowser.py", "cwe_content": [{"cwe": "CWE-77,Improper Neutralization of Special Elements used in a Command ('Command Injection')", "candidate": []}]}]}

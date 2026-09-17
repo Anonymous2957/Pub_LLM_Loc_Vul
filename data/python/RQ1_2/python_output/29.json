@@ -1,0 +1,1 @@
+{"cve": "CVE-2023-0057", "file_content": [{"file_name": "29_0@pyload@pyload@8b6aec3aa90f347066262f83f21e32f96ab81e8e@src_pyload_webui_app___init__.py", "cwe_content": [{"cwe": "CWE-1021,Improper Restriction of Rendered UI Layers or Frames", "candidate": []}]}]}

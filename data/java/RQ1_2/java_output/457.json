@@ -1,0 +1,1 @@
+{"cve": "CVE-2020-7611", "file_content": [{"file_name": "457_0@micronaut-projects@micronaut-core@a2392f4289f7777c4a310c3ae3bb4bc0ce5a65c2@http-netty_src_main_java_io_micronaut_http_netty_NettyHttpHeaders.java", "cwe_content": [{"cwe": "CWE-444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling')", "candidate": []}]}]}

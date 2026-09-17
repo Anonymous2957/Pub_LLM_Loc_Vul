@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-4644", "file_content": [{"file_name": "431_0@ikus060@rdiffweb@8e1a4790c09ca4dfed24825efe47f6825f4b0a4f@rdiffweb_rdw_app.py", "cwe_content": [{"cwe": "CWE-601,URL Redirection to Untrusted Site ('Open Redirect')", "candidate": []}]}]}

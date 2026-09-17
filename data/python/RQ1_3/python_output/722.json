@@ -1,0 +1,1 @@
+{"cve": "CVE-2021-43854", "file_content": [{"file_name": "722_0@nltk@nltk@0b7b076247ec41f9b6b8a94400d48ea299e4b507@nltk_tokenize_punkt.py", "cwe_content": [{"cwe": "CWE-400,Uncontrolled Resource Consumption", "candidate": []}]}]}

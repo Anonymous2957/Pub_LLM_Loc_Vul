@@ -1,0 +1,1 @@
+{"cve": "CVE-2020-4070", "file_content": [{"file_name": "461_0@w3c@css-validator@97a40444cbe0a6c209eb14b131afc2b7b76f0bb2@org_w3c_css_css_StyleSheetParser.java", "cwe_content": [{"cwe": "CWE-79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')", "candidate": []}]}]}

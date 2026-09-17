@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-3509", "file_content": [{"file_name": "318_0@protocolbuffers@protobuf@3b5301c114121d036efe77e2816c44876c258c89@java_core_src_main_java_com_google_protobuf_MessageReflection.java", "cwe_content": [{"cwe": "NVD-CWE-noinfo,none", "candidate": []}]}]}

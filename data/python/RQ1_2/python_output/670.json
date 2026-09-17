@@ -1,0 +1,1 @@
+{"cve": "CVE-2021-41124", "file_content": [{"file_name": "670_0@scrapy-plugins@scrapy-splash@783c58d1c8754e9c2442190189a5dd09c658a669@scrapy_splash_middleware.py", "cwe_content": [{"cwe": "CWE-200,Exposure of Sensitive Information to an Unauthorized Actor", "candidate": []}]}]}

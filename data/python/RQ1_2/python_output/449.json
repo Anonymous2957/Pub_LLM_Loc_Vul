@@ -1,0 +1,1 @@
+{"cve": "CVE-2020-25659", "file_content": [{"file_name": "449_0@pyca@cryptography@cf9bd6a36bc7b05abca114b76e216598d9ad9b16@src_cryptography_hazmat_backends_openssl_rsa.py", "cwe_content": [{"cwe": "NVD-CWE-Other,none", "candidate": []}]}]}

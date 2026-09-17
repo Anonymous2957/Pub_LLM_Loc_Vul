@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-3167", "file_content": [{"file_name": "347_0@ikus060@rdiffweb@3c497da4a8dcfc5ce967a8172b8da081b6e098fc@rdiffweb_tools_security.py", "cwe_content": [{"cwe": "CWE-1021,Improper Restriction of Rendered UI Layers or Frames", "candidate": []}]}]}

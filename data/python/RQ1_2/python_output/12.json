@@ -1,0 +1,1 @@
+{"cve": "CVE-2023-0406", "file_content": [{"file_name": "12_0@modoboa@modoboa@8e14ac93669df4f35fcdebd55dc9d2f0fed3ed48@modoboa_admin_views_identity.py", "cwe_content": [{"cwe": "CWE-352,Cross-Site Request Forgery (CSRF)", "candidate": []}]}]}

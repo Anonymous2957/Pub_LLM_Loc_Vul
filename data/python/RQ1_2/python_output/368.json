@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-3376", "file_content": [{"file_name": "368_0@ikus060@rdiffweb@a5d0bca218bd83c2e131767c061b0872969e9d23@rdiffweb_controller_page_pref_general.py", "cwe_content": [{"cwe": "CWE-521,Weak Password Requirements", "candidate": []}]}]}

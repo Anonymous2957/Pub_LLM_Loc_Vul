@@ -1,0 +1,1 @@
+{"cve": "CVE-2023-2259", "file_content": [{"file_name": "74_0@alfio-event@alf.io@a00c7248b49a0afda0ab009078ce7c2be2d12fbf@src_main_java_alfio_util_ExportUtils.java", "cwe_content": [{"cwe": "CWE-94,Improper Control of Generation of Code ('Code Injection')", "candidate": []}]}]}

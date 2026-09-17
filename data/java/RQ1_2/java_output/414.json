@@ -1,0 +1,1 @@
+{"cve": "CVE-2021-25959", "file_content": [{"file_name": "414_0@opencrx@opencrx@3347508365d040abd77d22ac8ee8cb50664eea68@core_src_main_java_org_opencrx_kernel_tools_CopyDb.java", "cwe_content": [{"cwe": "CWE-79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')", "candidate": []}]}]}

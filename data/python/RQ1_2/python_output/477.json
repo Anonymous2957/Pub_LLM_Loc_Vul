@@ -1,0 +1,1 @@
+{"cve": "CVE-2021-25926", "file_content": [{"file_name": "477_0@SiCKRAGE@SiCKRAGE@07c0210c12c341fdebab124e7df3367f12221415@sickrage_core_webserver_handlers_base.py", "cwe_content": [{"cwe": "CWE-79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')", "candidate": []}]}]}

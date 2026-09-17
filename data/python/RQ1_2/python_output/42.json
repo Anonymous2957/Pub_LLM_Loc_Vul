@@ -1,0 +1,1 @@
+{"cve": "CVE-2020-6817", "file_content": [{"file_name": "42_0@mozilla@bleach@fc77027e67cc04aff6f4d4885358705f98ad20f4@bleach_sanitizer.py", "cwe_content": [{"cwe": "CWE-1333,Inefficient Regular Expression Complexity", "candidate": []}]}]}

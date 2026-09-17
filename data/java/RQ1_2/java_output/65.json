@@ -1,0 +1,1 @@
+{"cve": "CVE-2023-26475", "file_content": [{"file_name": "65_0@xwiki@xwiki-platform@05dc33154cecd4a4d542fc8f883718b378333be5@xwiki-platform-core_xwiki-platform-oldcore_src_main_java_com_xpn_xwiki_internal_mandatory_XWikiCommentsDocumentInitializer.java", "cwe_content": [{"cwe": "CWE-269,Improper Privilege Management", "candidate": []}]}]}

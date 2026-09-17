@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-0860", "file_content": [{"file_name": "169_0@cobbler@cobbler@817aea8654cce2cad0941f0986d7b03716cee4e6@cobbler_modules_authentication_pam.py", "cwe_content": [{"cwe": "CWE-285,Improper Authorization", "candidate": []}, {"cwe": "CWE-863,Incorrect Authorization", "candidate": []}]}]}

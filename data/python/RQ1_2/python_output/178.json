@@ -1,0 +1,1 @@
+{"cve": "CVE-2022-0577", "file_content": [{"file_name": "178_0@scrapy@scrapy@aa0306a167ef34b23cc2ec407a48359a4b5a8d0a@scrapy_downloadermiddlewares_redirect.py", "cwe_content": [{"cwe": "CWE-863,Incorrect Authorization", "candidate": []}]}]}

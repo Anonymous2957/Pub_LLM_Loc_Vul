@@ -1,0 +1,1 @@
+{"cve": "CVE-2020-15172", "file_content": [{"file_name": "766_0@Zephyrkul@FluffyCogs@cbc70ed672e55d89424d8a091143c1fc1a2a6912@act_act.py", "cwe_content": [{"cwe": "CWE-502,Deserialization of Untrusted Data", "candidate": []}]}]}

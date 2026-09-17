@@ -1,0 +1,1 @@
+{"cve": "CVE-2021-23437", "file_content": [{"file_name": "662_0@python-pillow@Pillow@bd5cf7db87c6abf7c3510a50170851af5538249f@src_PIL_ImageColor.py", "cwe_content": [{"cwe": "CWE-125,Out-of-bounds Read", "candidate": []}]}]}

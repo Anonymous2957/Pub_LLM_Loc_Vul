@@ -1,0 +1,1 @@
+{"cve": "CVE-2020-7212", "file_content": [{"file_name": "747_0@urllib3@urllib3@a0d2bfd6098fe996fca74b80cbe473236187157c@src_urllib3_util_url.py", "cwe_content": [{"cwe": "CWE-400,Uncontrolled Resource Consumption", "candidate": []}]}]}

@@ -1,0 +1,1 @@
+{"cve": "CVE-2020-10709", "file_content": [{"file_name": "483_0@ansible@awx@955ef3e9cb7d6f17d3e5fdde2be367933790c4b2@awx_api_urls_oauth2_root.py", "cwe_content": [{"cwe": "CWE-287,Improper Authentication", "candidate": []}, {"cwe": "CWE-613,Insufficient Session Expiration", "candidate": []}]}]}

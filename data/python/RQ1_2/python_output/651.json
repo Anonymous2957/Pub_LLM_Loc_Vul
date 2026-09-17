@@ -1,0 +1,1 @@
+{"cve": "CVE-2021-32811", "file_content": [{"file_name": "651_0@zopefoundation@Zope@e9b93028aaa68be1235d7869a2d394aeca508101@setup.py", "cwe_content": [{"cwe": "CWE-1321,Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution')", "candidate": []}]}]}
